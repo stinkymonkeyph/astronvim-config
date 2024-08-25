@@ -9,5 +9,6 @@ return {
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.pack.typescript" },
+  { import = "astrocommunity.pack.cs" },
   -- import/override with your plugins folder
 }
